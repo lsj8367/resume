@@ -1,0 +1,21 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Springfield Community Outreach Group
+# Java, JSP, Oracle, MySql(MariaDB), Jira, SVN, Git <ul class="resume-item-list"> <li></li> <li></li> </ul>
+- project: 미니 프로젝트
+  role: 게시판 api 만들기
+  duration: 2021년 6월 &mdash; 현재
+  url: "https://github.com/lsj8367/Board"
+  description: 스프링 부트를 활용하여 배운 내용을 토대로 api만들기 <br> 사용한 기술스택 - Java, SpringBoot, JPA, MariaDB, thymeLeaf, TDD, Junit5, Mock
+
+- project: 인천 상수도 관망관리 시스템
+  role: 수운영관리 고도화 시스템 구축
+  duration: 2021년 2월 &mdash; 2021년 6월
+  description: 레거시 코드 리팩토링 경험, 공공기관 SI 프로젝트 개발, 전자정부 프레임워크, iBatis, Oracle 환경에서의 개발 경험
+
+- project: 네책내책
+  role: 학원에서 진행했던 프로젝트
+  duration: 2020년 10월 &mdash; 2021년 7월
+  url: "https://github.com/lsj8367/Project"
+  description: Spring MVC 환경에서의 개발 경험<br> Spring에서 SpringBoot로 마이그레이션 경험 - 2021.07<br>프로젝트 명을 클릭하시면 ppt 및 소스를 보실 수 있습니다. 
