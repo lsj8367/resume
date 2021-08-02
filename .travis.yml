@@ -1,9 +1,9 @@
 language: ruby
 
 rvm:
-  - 2.5.0
+  - 2.6.8
 
-script: bundle exec jekyll serve
+script: bundle exec jekyll build
 
 install: bundle install
 
