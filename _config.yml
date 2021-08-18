@@ -60,7 +60,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/%EC%8A%B9%EC%9E%AC-%EC%9D%B4-146778214/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://lsj8367.github.io"
-  resume_pdf_url: "https://github.com/lsj8367/resume/raw/gh-pages/webpage/resume.pdf"
+  resume_pdf_url:               "https://github.com/lsj8367/resume/raw/gh-pages/webpage/resume.pdf"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
