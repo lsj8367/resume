@@ -9,7 +9,7 @@
   description: PostgreSQL, MariaDB, MySQL, Oracle
 
 - skill: DevOps
-  description: AWS EC2, AWS RDS, Google Cloud Platform, Ubuntu, RedHat
+  description: AWS EC2, AWS RDS, Google Cloud Platform, Ubuntu, Docker
 
 - skill: Others
   description: Git & GitHub, GitLab, Jira, Confluence, SVN
