@@ -11,10 +11,16 @@
   role: 팀프로젝트 및 협업 경험, Hard skill 및 Soft skill 향상 목표
   duration: 2021년 8월 &mdash; Present
   url: "https://github.com/Ark-inflearn/inflearn-clone-back"
-  description: 코드리뷰 경험, Spring Security Oauth2 로그인 구현
+  description: 
+    - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/pull/76#event-5230373645">코드리뷰 경험 1</a><br>
+    - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/issues/118">협업 경험</a><br>
+    - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/wiki/%5BSpring-Security%5D-Oauth-Custom-Redirect-URI">Spring Security Oauth2 로그인 구현 이슈 위키</a>
 
 - project: 네책내책
   role: 학원프로젝트 였으나 혼자 계속 리팩토링하는 프로젝트
   duration: 2020년 10월 &mdash; Present
   url: "https://github.com/lsj8367/Project"
-  description: Spring MVC 환경에서의 개발 경험<br> Spring에서 SpringBoot로 마이그레이션 경험 - 2021.07<br>프로젝트 명을 클릭하시면 ppt 및 소스를 보실 수 있습니다. 
+  description: 
+    - Spring MVC 환경에서의 개발 경험<br>
+    - <a href="https://github.com/lsj8367/Project/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B3%BC%EC%A0%95">Spring에서 SpringBoot로 마이그레이션 경험 - 2021.07</a><br>
+    - 프로젝트 명을 클릭하시면 ppt 및 소스를 보실 수 있습니다. 
