@@ -3,9 +3,14 @@
 - company: (주)와플랩
   position: Java Back-End Developer
   duration:  2021년 7월 &mdash; Present
-  summary: • RESTful API 개발<br> • AWS 클라우드 환경 운영<br> • Docker를 활용한 배포
+  summary: 
+    - • HTTP API 개발<br>
+    - • AWS ec2 환경 운영<br>
+    - • Docker를 활용한 이미지를 이용한 빌드 배포
 
 - company: (주)이노데일
   position: Java/JSP Web Developer
   duration: 2021년 2월 &mdash; 2021년 6월 # 연차
-  summary: • 공공기관 si프로젝트 경험
+  summary:
+    - • 공공기관 si프로젝트 경험 <br>
+    - • 경력이 얼마 되지 않지만 일찍 관두게 된 이유 => 코드의 품질이나 새로운 기술, 성능 개선 등 변화하려는게 보이지 않아 회사와 나의 방향성이 다르게 되어 퇴사 결심
