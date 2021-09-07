@@ -6,7 +6,7 @@
   summary: 
     - • HTTP API 개발<br>
     - • AWS ec2 환경 운영<br>
-    - • Docker를 활용한 이미지를 이용한 빌드 배포
+    - • Docker를 활용한 이미지를 이용한 빌드 배포<br>
     - • Mybatis -> JPA 마이그레이션 경험
 
 # - company: (주)이노데일
