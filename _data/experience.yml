@@ -5,8 +5,8 @@
   duration:  2021년 7월 &mdash; Present
   summary: 
     - • HTTP API 개발<br>
-    - • AWS ec2 환경 운영<br>
-    - • Docker를 활용한 이미지를 이용한 빌드 배포<br>
+    - • AWS ec2 환경 배포 및 운영<br>
+    - • TDD, Clean Code with Java 12기 수강 후 단위 테스트 적용
     - • Mybatis -> JPA 마이그레이션 경험
 
 # - company: (주)이노데일
