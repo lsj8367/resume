@@ -1,5 +1,5 @@
-# Jobs
-# VP of Global Communications
+# 경력사항
+
 - company: (주)와플랩
   position: Java Back-End Developer
   duration:  2021년 7월 &mdash; 현재
@@ -8,10 +8,3 @@
     - • AWS ec2 환경 배포 및 운영<br>
     - • TDD, Clean Code with Java 12기 수강 후 단위 테스트 적용<br>
     - • Mybatis -> JPA 마이그레이션 경험
-
-# - company: (주)이노데일
-#   position: Java/JSP Web Developer
-#   duration: 2021년 2월 &mdash; 2021년 6월 # 연차
-#   summary:
-#     - • 공공기관 si프로젝트 경험 <br>
-#     - • 경력이 얼마 되지 않지만 일찍 관두게 된 이유 => 코드의 품질이나 새로운 기술, 성능 개선 등 변화하려는게 보이지 않아 회사와 나의 방향성이 다르게 되어 퇴사 결심

@@ -3,7 +3,7 @@
   description: Java, Spring, SpringBoot, JPA
 
 - skill: Front-End
-  description: HTML5/CSS3, JavaScript(ES6), jQuery
+  description: HTML5/CSS3, JavaScript(ES6)
 
 - skill: Database
   description: PostgreSQL, MariaDB
@@ -16,7 +16,7 @@
 - skill: Others
   description:
     - 자신있는 것 - Git & GitHub<br>
-    - 사용해본 것 - Confluence, SVN, GitLab, Jira
+    - 사용해본 것 - SVN, GitLab, Jira
 
 - skill: Tools
-  description: IntelliJ, Eclipse, Visual Studio Code
+  description: IntelliJ, Visual Studio Code
