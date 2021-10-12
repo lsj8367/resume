@@ -1,6 +1,21 @@
 # 교육이수사항
+- degree: 패스트 캠퍼스
+  uni: 객체지향 설계를 위한 디자인 패턴
+  year: 2021년 8월 &mdash; 현재
+  # award: 
+  summary: 설계에 대한 꾸준한 고민 끝에 책과 더불어 학습하게 된 강의
+
 - degree: 넥스트스텝
   uni: TDD, Clean Code with Java 12기
-  year: 2021년 7월 &mdash; 현재
+  year: 2021년 7월 &mdash; 2021년 9월
   # award: 
   summary: 자바지기 박재성님 주관 TDD와 클린 코드에 대한 교육
+
+- degree: KIC 캠퍼스
+  uni: 클라우드 기반의 자바 응용 및 빅데이터 분석
+  year: 2020년 7월 &mdash; 2020년 12월
+  # award: 
+  summary:
+    - • 웹에 대한 지식 학습 및 객체지향 프로그래밍에 대한 이해<br>
+    - • MariaDB를 이용한 데이터베이스 및 테이블 관리<br>
+    - • <b>프로젝트 수행 도중 버전 관리 필요에 의해 Git을 학습한 후 학습 내용을 팀원들에게 공유하여 버전 관리한 경험</b>
