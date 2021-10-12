@@ -1,6 +1,6 @@
 # Skills
 - skill: Back-End
-  description: Java, Spring, SpringBoot, JPA
+  description: Java, Spring, SpringBoot, Spring Data JPA, JPA, QueryDsl, Junit5
 
 - skill: Front-End
   description: HTML5/CSS3, JavaScript(ES6), jQuery
@@ -10,8 +10,8 @@
 
 - skill: DevOps
   description:
-    - 자신있는 것 - AWS EC2<br>
-    - 사용해본 스택 - AWS RDS, Google Cloud Platform, Ubuntu, Docker
+    - 자신있는 것 - AWS EC2, Ubuntu<br>
+    - 사용해본 스택 - AWS RDS, Google Cloud Platform, Docker
 
 - skill: Others
   description:

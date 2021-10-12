@@ -5,9 +5,11 @@
   duration:  2021년 7월 &mdash; Present
   summary: 
     - • HTTP API 개발<br>
-    - • AWS ec2 환경 배포 및 운영<br>
-    - • TDD, Clean Code with Java 12기 수강 후 단위 테스트 적용
-    - • Mybatis -> JPA 마이그레이션 경험
+    - • AWS ec2 환경 배포 및 운영 <br>
+        &nbsp;&nbsp; • 기존 수동 명령어 배포 형식 -> 자동화 쉘스크립트 구현하여 배포 하는데에 <b style="color:red">시간 단축</b><br>
+    - • TDD, Clean Code with Java 12기 수강 후 <b style="color:red">사내 전체 프로젝트에 단위 테스트 적용</b> <br>
+    - • Mybatis -> JPA <b style="color:red">마이그레이션 경험</b> <br>
+    - • 디자인패턴을 적용하여 switch, if문 리팩토링 -> <b style="color:red">O(n)에서 O(1) 시간복잡도 개선 경험</b>
 
 # - company: (주)이노데일
 #   position: Java/JSP Web Developer

@@ -1,4 +1,11 @@
 # 외부활동
+- organization: 밑바닥부터 만드는 컴퓨팅 시스템
+  role: 모각코
+  year: 2021년 9월 &mdash; Present
+  url: https://github.com/lsj8367/nand2tetris
+  summary:
+    - 밑바닥부터 컴퓨터를 만들어봄으로써 기초중의 기초를 학습하고자 하게된 스터디<br>
+
 - organization: 사이드 프로젝트 스터디
   role: Team-ARK
   year: 2021년 8월 &mdash; Present
@@ -9,7 +16,7 @@
 
 - organization: JPA 스터디
   role: JPA
-  year: 2021년 6월 &mdash; Present
+  year: 2021년 6월 &mdash; 2021년 9월
   url: https://github.com/lsj8367/JPAStudy
   summary:
     - 스프링부트를 공부하는중에 JPA에 대한 개념이 더 필요해서 활동하게 된 스터디<br>

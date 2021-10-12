@@ -1,12 +1,4 @@
 # Projects
-
-# 프로젝트 진행한것들
-# - project: 미니 프로젝트
-#   role: 게시판 api 만들기
-#   duration: 2021년 6월 &mdash; 현재
-#   url: "https://github.com/lsj8367/Board"
-#   description: 스프링 부트를 활용하여 배운 내용을 토대로 api만들기 <br> 사용한 기술스택 - Java, SpringBoot, JPA, MariaDB, thymeLeaf, TDD, Junit5, Mock
-
 - project: 인프런을 모방한 팀 프로젝트 (클론 코딩 X)
   role: 팀프로젝트 및 협업 경험, Hard skill 및 Soft skill 향상 목표
   duration: 2021년 8월 &mdash; Present
@@ -22,5 +14,6 @@
   url: "https://github.com/lsj8367/Project"
   description: 
     - Spring MVC 환경에서의 개발 경험<br>
-    - <a href="https://github.com/lsj8367/Project/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B3%BC%EC%A0%95">Spring에서 SpringBoot로 마이그레이션 경험 - 2021.07</a><br>
+    - Mybatis -> JPA 마이그레이션 진행중<br>
+    - <a href="https://github.com/lsj8367/Project/wiki">Spring에서 SpringBoot로 마이그레이션 경험 - 2021.07</a><br>
     - 프로젝트 명을 클릭하시면 ppt 및 소스를 보실 수 있습니다. 
