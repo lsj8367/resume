@@ -14,7 +14,6 @@
   duration: 2020년 10월 &mdash; 현재
   url: "https://github.com/lsj8367/Project"
   description: 
-    - Mybatis -> JPA 마이그레이션 진행중<br>
     - MyBatis -> JPA 마이그레이션 적용중 - 현재<br>
     - 단위 테스트 코드 작성중 - 현재<br>
     - <a href="https://github.com/lsj8367/Project/wiki">Spring 5.x -> Spring Boot2.x 마이그레이션 경험</a><br>
