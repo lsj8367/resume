@@ -4,6 +4,7 @@
   duration: 2021년 8월 &mdash; 현재
   url: "https://github.com/Ark-inflearn"
   description: 
+    - 밑줄 그어진 문장을 클릭하시면 링크로 이동하실 수 있습니다.<br>
     - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/pull/76#event-5230373645">코드리뷰 경험</a><br>
     - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/issues/118">협업 경험</a><br>
     - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/wiki/%5BSpring-Security%5D-Oauth-Custom-Redirect-URI">Spring Security Oauth2 로그인 구현 이슈 위키</a><br>
@@ -14,6 +15,7 @@
   duration: 2020년 10월 &mdash; 현재
   url: "https://github.com/lsj8367/Project"
   description: 
+    - 밑줄 그어진 문장을 클릭하시면 링크로 이동하실 수 있습니다.<br>
     - MyBatis -> JPA 마이그레이션 적용중 - 현재<br>
     - 단위 테스트 코드 작성중 - 현재<br>
     - <a href="https://github.com/lsj8367/Project/wiki">Spring 5.x -> Spring Boot2.x 마이그레이션 경험</a><br>
