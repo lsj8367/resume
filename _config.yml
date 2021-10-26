@@ -18,16 +18,16 @@ resume_contact_email:           "dyctdy@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 # resume_contact_telephone:       "010-8831-8367"
-# resume_contact_address:         "경기도 부천시 작동로50번길 10"
+# resume_contact_address:         "주소"
 
 resume_header_contact_info:     "dyctdy@gmail.com"
 display_header_contact_info:    "true" # 전화번호, 메일 공개여부
 
 resume_header_intro: "<p>
                         기록을 좋아하는 백엔드 개발자 이승재입니다.<br>
-                        모르는 것은 찾아보며 학습하고 습득한 내용들 그리고 개발하며 발생한 이슈들을 블로그에 기록하고 있습니다.<br>
-                        배움의 진짜 가치를 알기에 깊이 있게 학습하는 것을 좋아하여 스터디에 참여하며
-                        개발 서적을 꾸준히 읽고 있습니다.<br>
+                        공부했던 기록, 그리고 업무중 발생했던 이슈를 정리하기위해 블로그를 운영하고 있습니다.<br>
+                        개인 프로젝트나 개발 커뮤니티 활동 등을 통해 다양한 개발 경험을 즐기고 있습니다.<br>
+                        추가적으로 끊임없이 무언가를 추가적으로 적용해보려고 개발 서적을 꾸준히 읽고 있습니다.<br>
                         개발을 함에 있어서 클린코드와 코드리뷰 문화를 항상 생각해왔기 때문에
                         NEXTSTEP에서 주관하는 TDD, Clean Code with Java 12기를 이수하였습니다.<br>
                       </p>"
