@@ -13,9 +13,10 @@
 - project: 네책내책
   role: 학원프로젝트 였으나 혼자 계속 리팩토링하는 프로젝트
   duration: 2020년 10월 &mdash; 현재
-  url: "https://github.com/lsj8367/Project"
+  url: "http://13.209.110.246:8080/"
   description: 
     - 밑줄 그어진 문장을 클릭하시면 링크로 이동하실 수 있습니다.<br>
+    - <a href="https://github.com/lsj8367/Project">프로젝트 깃허브 바로가기</a><br>
     - MyBatis -> JPA 마이그레이션 적용중 - 현재<br>
     - 단위 테스트 코드 작성중 - 현재<br>
     - <a href="https://github.com/lsj8367/Project/wiki">Spring 5.x -> Spring Boot2.x 마이그레이션 경험</a><br>
