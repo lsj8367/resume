@@ -1,17 +1,33 @@
 # 외부활동
+- organization: HTTP 완벽 가이드
+  role: 팀 프로젝트중 병행하게 된 스터디
+  year: 2021년 10월 &mdash; 현재
+  url: https://github.com/TEAM-ARK/HTTP_The_Definitive_Guide
+  summary:
+    - 프론트엔드, 백엔드 협업 도중 HTTP에 대한 근본적 개념을 바로잡기 위해 시작한 스터디<br>
+
+- organization: 자바의 정석 스터디
+  role: 태초 개념확립 다시 하려고 회독하게 된 스터디
+  year: 2021년 11월
+  url: https://github.com/lsj8367/java-study
+  summary:
+    - 첫 직장 사람들과 기획하게 된 스터디 (사정이 생겨 중간부터는 혼자 하게 된 스터디)<br>
+    - 해이해지지 않고 혼자 회독 끝
+
 - organization: 밑바닥부터 만드는 컴퓨팅 시스템
   role: 모각코
-  year: 2021년 9월 &mdash; Present
+  year: 2021년 9월 &mdash; 현재
   url: https://github.com/lsj8367/nand2tetris
   summary:
     - 밑바닥부터 컴퓨터를 만들어봄으로써 기초중의 기초를 학습하고자 하게된 스터디<br>
+    - <a href="https://lsj8367.github.io/categories/CS">회고글 바로가기</a>
 
 - organization: 사이드 프로젝트 스터디
   role: Team-ARK
   year: 2021년 8월 &mdash; 현재
   url: https://github.com/ark-inflearn
   summary:
-    - 스프링 프레임워크에 대해 더 깊게 공부 그리고 새롭게 학습한 내용들을 도입하려고 참여하게 된 토이 프로젝트 스터디<br>
+    - 새롭게 학습한 내용들을 도입하려고 참여하게 됨 기존 클론 코딩에서 벗어나 실 운영 서비스를 하려고 현재 진행중<br>
     - 정보 - <a href="https://quirky-editor-6c8.notion.site/Team-Ark-6ed84513b77a4ab2b3776dc834639b6f">Team-Ark 노션 바로가기</a>
 
 - organization: JPA 스터디

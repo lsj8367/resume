@@ -1,22 +1,29 @@
 # 프로젝트
+- project: 스터디 사이트 서비스
+  role: 팀프로젝트 및 협업 경험, 스킬 향상 목표 및 지속적 서비스 운영경험 쌓기
+  duration: 2021년 11월 &mdash; 현재
+  url: "https://github.com/TEAM-ARK"
+  description:
+    - 기존의 인프런 모방 프로젝트를 없애고 실 서비스를 운영하려는 프로젝트
+
 - project: 인프런을 모방한 팀 프로젝트 (클론 코딩 X)
   role: 팀프로젝트 및 협업 경험, Hard skill 및 Soft skill 향상 목표
-  duration: 2021년 8월 &mdash; 현재
-  url: "https://github.com/Ark-inflearn"
+  duration: 2021년 8월 &mdash; 2021년 10월
+  url: "https://github.com/TEAM-ARK"
   description: 
     - 밑줄 그어진 문장을 클릭하시면 링크로 이동하실 수 있습니다.<br>
-    - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/pull/76#event-5230373645">코드리뷰 경험</a><br>
-    - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/issues/118">협업 경험</a><br>
-    - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/wiki/%5BSpring-Security%5D-Oauth-Custom-Redirect-URI">Spring Security Oauth2 로그인 구현 이슈 위키</a><br>
-    - <a href="https://github.com/Ark-inflearn/inflearn-clone-back/wiki/%5BEncryption%5D-Properties-%EC%95%94%ED%98%B8%ED%99%94-Jasypt-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC">Jasypt 암호화 위키</a>
+    - <a href="https://github.com/TEAM-ARK/sprout-backend/pull/76#event-5230373645">코드리뷰 경험</a><br>
+    - <a href="https://github.com/TEAM-ARK/sprout-backend/issues/118">협업 경험</a><br>
+    - <a href="https://github.com/TEAM-ARK/sprout-backend/wiki/%5BSpring-Security%5D-Oauth-Custom-Redirect-URI">Spring Security Oauth2 로그인 구현 이슈 위키</a><br>
+    - <a href="https://github.com/TEAM-ARK/sprout-backend/wiki/%5BEncryption%5D-Properties-%EC%95%94%ED%98%B8%ED%99%94-Jasypt-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC">Jasypt 암호화 위키</a>
 
 - project: 네책내책
-  role: 학원프로젝트 였으나 혼자 계속 리팩토링하는 프로젝트
-  duration: 2020년 10월 &mdash; 현재
+  role: 학원프로젝트 였으나 혼자 계속 리팩토링했던 프로젝트
+  duration: 2020년 10월 &mdash; 2021년 10월
   url: "http://13.209.110.246:8080/"
   description: 
     - 밑줄 그어진 문장을 클릭하시면 링크로 이동하실 수 있습니다.<br>
     - <a href="https://github.com/lsj8367/Project">프로젝트 깃허브 바로가기</a><br>
-    - MyBatis -> JPA 마이그레이션 적용중 - 현재<br>
-    - 단위 테스트 코드 작성중 - 현재<br>
+    - MyBatis -> JPA 마이그레이션 적용<br>
+    - 단위 테스트 코드 작성<br>
     - <a href="https://github.com/lsj8367/Project/wiki">Spring 5.x -> Spring Boot2.x 마이그레이션 경험</a><br>
