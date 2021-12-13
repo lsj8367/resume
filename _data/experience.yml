@@ -1,4 +1,9 @@
 # 경력사항
+- company: (주)지앤원
+  position: Commerce Back-End Developer
+  duration:  2021년 12월 &mdash; 현재
+  summary:
+    - • 레거시 코드 구조 개편 (Mybatis -> JPA)
 
 - company: (주)와플랩
   position: Java Back-End Developer
@@ -13,10 +18,3 @@
     - • Mybatis -> JPA <b style="color:red">마이그레이션 경험</b> <br>
     - • <a href="https://lsj8367.github.io/database/DataBase-index/">DB 성능 최적화 경험</a> (쿼리 조회) <b style="color:red">2.x 초</b> -> <b style="color:yellow">0.3초</b> <br>
     - • <a href="https://github.com/lsj8367/DesignPattern">디자인패턴</a>을 적용하여 switch, if문 리팩토링 -> <b style="color:red">O(n)에서 O(1) 시간복잡도 개선 경험</b>
-
-# - company: (주)이노데일
-#   position: Java/JSP Web Developer
-#   duration: 2021년 2월 &mdash; 2021년 6월 # 연차
-#   summary:
-#     - • 공공기관 si프로젝트 경험 <br>
-#     - • 경력이 얼마 되지 않지만 일찍 관두게 된 이유 => 코드의 품질이나 새로운 기술, 성능 개선 등 변화하려는게 보이지 않아 회사와 나의 방향성이 다르게 되어 퇴사 결심
