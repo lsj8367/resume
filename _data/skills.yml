@@ -6,17 +6,17 @@
   description: HTML5/CSS3, JavaScript(ES6)
 
 - skill: Database
-  description: PostgreSQL, MariaDB
+  description: MySQL, PostgreSQL, MariaDB
 
 - skill: DevOps
   description:
     - 자신있는 것 - AWS EC2(Ubuntu)<br>
-    - 사용해본 스택 - AWS RDS, Google Cloud Platform, Docker
+    - 사용해본 스택 - AWS RDS, Docker
 
 - skill: Others
   description:
     - 자신있는 것 - Git & GitHub<br>
-    - 사용해본 것 - SVN, GitLab, Jira
+    - 사용해본 것 - GitLab, Jira
 
 - skill: Tools
   description: IntelliJ, Visual Studio Code
